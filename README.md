@@ -1,19 +1,15 @@
 # Cover Letter Generator
----
 This app uses LangChain + Tavily Search + OpenAI (GPT-4o-mini), and automatically drafts up a cover letter if you input a job posting and upload your PDF!
 
 ## Features
----
 * **Tavily Search** tracks down the company's values page, extracting company core values
 * **PDF parsing** takes your experience and maps them to core values
 * **Streamlit UI** provides an intuitive UI
 
 ## Demo
----
 ![App screenshot](./assets/screenshot.png)
 
 ## Installation
----
 
 1. **Clone the repo**
 ```bash
