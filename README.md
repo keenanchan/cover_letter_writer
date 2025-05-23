@@ -37,11 +37,9 @@ streamlit run CoverLetterAgent.py
 ```
 
 ## Usage
----
 * Paste in the link to the job posting
 * Upload your resume
 * Click **Generate Cover Letter**!
 
 ## Disclaimer
----
 This was intended as a toy app to learn more about LangChain and AI agents. I cannot recommend using this to actually write cover letters for real job postings - after all, the cover letters that really wow the hiring managers are the ones that show who you are as a person, beyond the resume!
